@@ -1,5 +1,5 @@
 name: conversor_moedas
-description: Conversor de Moedas em Flutter
+description: Conversor de Moedas Euro, Dollar, Reais, desenvolvido em Flutter
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `pub publish`. This is preferred for private packages.
@@ -27,7 +27,7 @@ dependencies:
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
-  cupertino_icons: ^0.1.3
+  cupertino_icons: ^1.0.0
   http: ^0.12.0+2
 
 dev_dependencies:

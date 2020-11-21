@@ -1,6 +1,6 @@
 # conversor_moedas
 
-Conversor de Moedas em Flutter
+Conversor de Moedas Euro, Dollar, Reais, desenvolvido em Flutter
 
 ## Getting Started
 

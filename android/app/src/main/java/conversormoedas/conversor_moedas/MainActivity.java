@@ -1,4 +1,4 @@
-package br.com.melo.conversor_moedas;
+package conversormoedas.conversor_moedas;
 
 import io.flutter.embedding.android.FlutterActivity;
 
